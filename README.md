@@ -10,4 +10,4 @@ SSD: 500GB WD SN750 NVME
 OS: macOS Big Sur 11.1
 
 
-This repo is for personal use only. 
+This repo is for personal use only. No support is given. 
